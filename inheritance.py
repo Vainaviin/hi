@@ -298,3 +298,9 @@
 import os
 print(os.chdir(r"C:\Users\admin\AppData\Local\Programs\Python\Python313"))
 print(os.getcwd())    
+
+
+
+poovarasan 
+poovarasan
+poovarasan
